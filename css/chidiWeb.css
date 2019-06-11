@@ -76,9 +76,9 @@ header a:hover{
 /*...............showcase...................*/
 #showcase{
 	min-height: 400px;
-	background: url("../img/bkgnd.jpg") no-repeat -500px -900px;
+	background: url("../img/logo-html1.jpg") no-repeat;
 	text-align: center;
-	color: #ffffff; 
+	color: #ffffff;
 }
 #showcase h1{
 	font-size: 55px;
