@@ -73,9 +73,12 @@ header a:hover{
 /*...............showcase...................*/
 #showcase{
 	min-height: 400px;
-	background: url("../img/logo-html1.jpg") no-repeat;
+	background-image:url("../img/logo-html1.jpg");
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
 	text-align: center;
-	color: #ffffff;
+	color: #ced6e4;
 }
 #showcase h1{
 	font-size: 55px;
