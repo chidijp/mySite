@@ -1,7 +1,7 @@
 body{
 	font:15px/1.5  Arial, Helvetica, sans-serif;
 	padding: 0;
-	margin: 0;
+	margin: 0 ;
 	background-color: #f4f4f4;
 }
 
@@ -21,9 +21,6 @@ body{
 	padding-left: 20px;
 	padding-right: 20px;
 	color: white;
-}
-.buttongeneral{
-	background: blue;
 }
 .dark{
 	margin-top: 10px;
@@ -273,4 +270,8 @@ article, aside{
 }
 .text h1{
 	color:#e8491d;
+}
+header{
+	background: #35424a;
+	border-bottom: #e8491d 2px solid;
 }
